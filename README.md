@@ -38,4 +38,4 @@ If you use this model or code, please kindly cite it as follows:
 }
 ```
 ***
- **Last but not least, if you have any difficulty or question in implementations, please email to liyichencly@gmail.com.**
+ **Last but not least, if you have any difficulty or question in implementations, please send your email to liyichencly@gmail.com.**
