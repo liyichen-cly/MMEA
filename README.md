@@ -18,7 +18,7 @@ There are **sameAs** links between FB15k and DB15k as well as between FB15k and 
 [Please click here to download the datasets.](https://github.com/nle-ml/mmkb)
 
 ## Code
-We implemented the code by extending the public benchmark [OpenEA](https://github.com/nju-websoft/OpenEA), therefore we only public the model code to avoid repetition.
+Our code was implemented by extending the public benchmark [OpenEA](https://github.com/nju-websoft/OpenEA), therefore we only public the model code to avoid repetition. We appreciate the authors for making OpenEA open-sourced.
 
 ### **Dependencies**
 * Python 3.6
