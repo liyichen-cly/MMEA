@@ -31,7 +31,7 @@ If you use this model or code, please kindly cite it as follows:
 ```
 @inproceedings{chen2020mmea,
   title={MMEA: Entity Alignment for Multi-modal Knowledge Graph},
-  author={Liyi Chen and Zhi Li and Yijun Wang and Tong Xu and Zhefeng Wang and Enhong Chen},
+  author={Chen, Liyi and Li, Zhi and Wang, Yijun and Xu, Tong and Wang, Zhefeng and Chen, Enhong},
   booktitle={International Conference on Knowledge Science, Engineering and Management},
   pages={134--147},
   year={2020},
